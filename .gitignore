@@ -1,0 +1,8 @@
+pangaea-assignment-producer/dist
+pangaea-assignment-producer/node_modules
+pangaea-assignment-producer/package-lock.json
+
+pangaea-assignment-consumer/dist
+pangaea-assignment-consumer/node_modules
+pangaea-assignment-consumer/package-lock.json
+
